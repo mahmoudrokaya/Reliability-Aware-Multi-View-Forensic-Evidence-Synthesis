@@ -1,0 +1,30 @@
+# Reliability-Aware Multi-View Forensic Evidence Synthesis
+# Python dependencies for reproducing the experimental workflow.
+#
+# Repository:
+# Reliability-Aware-Multi-View-Forensic-Evidence-Synthesis
+#
+# Install with:
+#   pip install -r requirements.txt
+
+
+# Core scientific computing
+numpy
+pandas
+scipy
+
+# Machine learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+
+# Statistical analysis
+statsmodels
+
+# Visualization
+matplotlib
+
+# Utilities
+joblib
+tqdm
