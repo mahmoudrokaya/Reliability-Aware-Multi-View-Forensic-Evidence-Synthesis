@@ -1,0 +1,17 @@
+claim_id,dataset,claim,status,evidence
+C1,CICIDS2017,Full FERF outperforms naive unweighted multi-view fusion on clean repeated-CV data.,SUPPORTED,ΔBA=0.000349; Holm-adjusted paired t-test p=2.48119e-13
+C1,CSE-CIC-IDS2018,Full FERF outperforms naive unweighted multi-view fusion on clean repeated-CV data.,SUPPORTED,ΔBA=0.004597; Holm-adjusted paired t-test p=1.0227e-41
+C2,CICIDS2017,Record-specific reliability provides a significant clean-data advantage over optimized global weighting.,NOT_SUPPORTED,ΔBA=0.000001; Holm-adjusted paired t-test p=1
+C2,CSE-CIC-IDS2018,Record-specific reliability provides a significant clean-data advantage over optimized global weighting.,NOT_SUPPORTED,ΔBA=0.000023; Holm-adjusted paired t-test p=0.982991
+C3,CICIDS2017,Full FERF universally outperforms original-feature XGBoost on clean data.,NOT_SUPPORTED,ΔBA=-0.000022; Holm-adjusted paired t-test p=0.546866
+C3,CSE-CIC-IDS2018,Full FERF universally outperforms original-feature XGBoost on clean data.,NOT_SUPPORTED,ΔBA=-0.000275; Holm-adjusted paired t-test p=0.000168619
+C4,CICIDS2017,Full FERF improves robustness relative to global weighting under severe record-view evidence degradation.,SUPPORTED,"50% degradation: FERF BA=0.961730, global BA=0.749142, Δ=0.212588"
+C4,CSE-CIC-IDS2018,Full FERF improves robustness relative to global weighting under severe record-view evidence degradation.,NOT_SUPPORTED,"50% degradation: FERF BA=0.735554, global BA=0.735554, Δ=0.000000"
+C5,CICIDS2017->CSE-CIC-IDS2018,The framework demonstrates strong zero-shot cross-dataset classification.,NOT_SUPPORTED,target BA=0.499946; target ROC-AUC=0.640776
+C5,CSE-CIC-IDS2018->CICIDS2017,The framework demonstrates strong zero-shot cross-dataset classification.,NOT_SUPPORTED,target BA=0.554272; target ROC-AUC=0.629397
+C6,CICIDS2017->CSE-CIC-IDS2018,The harmonized semantic representation retains above-chance ranking information under cross-dataset transfer.,SUPPORTED,target ROC-AUC=0.640776
+C6,CSE-CIC-IDS2018->CICIDS2017,The harmonized semantic representation retains above-chance ranking information under cross-dataset transfer.,SUPPORTED,target ROC-AUC=0.629397
+C7,CICIDS2017,FERF introduces limited computational overhead relative to view-level inference.,SUPPORTED,FERF overhead=4.082%
+C7,CSE-CIC-IDS2018,FERF introduces limited computational overhead relative to view-level inference.,SUPPORTED,FERF overhead=6.529%
+C8,CICIDS2017,Analytical inference exhibits near-linear scaling with record count.,SUPPORTED,linear-fit R²=0.999115
+C8,CSE-CIC-IDS2018,Analytical inference exhibits near-linear scaling with record count.,SUPPORTED,linear-fit R²=0.998769

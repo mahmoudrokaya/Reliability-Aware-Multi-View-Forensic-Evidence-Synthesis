@@ -1,0 +1,507 @@
+📁 Results/
+├── 📁 _Folder_Structure/
+│   ├── 📄 results_file_inventory.csv
+│   ├── 📄 results_file_inventory.json
+│   ├── 📄 results_folder_summary.txt
+│   └── 📄 results_folder_tree.txt
+├── 📁 Experiment_01_Data_Preparation/
+│   ├── 📁 Download_Logs/
+│   │   ├── 📄 dataset_download.log
+│   │   ├── 📄 download_manifest.csv
+│   │   ├── 📄 download_manifest.json
+│   │   └── 📄 official_dataset_registry.json
+│   ├── 📁 Phase_01_Acquisition/
+│   │   ├── 📁 Logs/
+│   │   │   └── 📄 phase_01_acquisition.log
+│   │   ├── 📁 Manifests/
+│   │   │   ├── 📄 phase_01_file_manifest.csv
+│   │   │   └── 📄 phase_01_file_manifest.json
+│   │   └── 📁 Reports/
+│   │       ├── 📄 phase_01_acquisition_summary.csv
+│   │       └── 📄 phase_01_acquisition_summary.json
+│   ├── 📁 Phase_02_Integrity_Verification/
+│   │   ├── 📁 Step_01_File_Verification/
+│   │   │   ├── 📁 Logs/
+│   │   │   │   └── 📄 step_01_file_verification.log
+│   │   │   ├── 📁 Manifests/
+│   │   │   │   └── 📄 step_01_run_manifest.json
+│   │   │   └── 📁 Reports/
+│   │   │       ├── 📄 Dataset_Verification_Summary.csv
+│   │   │       ├── 📄 Dataset_Verification_Summary.json
+│   │   │       ├── 📄 Integrity_Report.csv
+│   │   │       └── 📄 Integrity_Report.json
+│   │   └── 📁 Step_02_Data_Cleaning/
+│   │       ├── 📁 BoT-IoT/
+│   │       │   ├── 📁 Cleaned_Data/
+│   │       │   ├── 📁 Manifests/
+│   │       │   │   └── 📄 global_row_hashes.sqlite
+│   │       │   ├── 📁 Rejected/
+│   │       │   └── 📁 Reports/
+│   │       ├── 📁 CICIDS2017/
+│   │       │   ├── 📁 Cleaned_Data/
+│   │       │   │   ├── 📄 cleaned_part_00001.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00002.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00003.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00004.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00005.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00006.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00007.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00008.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00009.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00010.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00011.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00012.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00013.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00014.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00015.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00016.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00017.csv.gz
+│   │       │   │   └── 📄 cleaned_part_00018.csv.gz
+│   │       │   ├── 📁 Manifests/
+│   │       │   │   ├── 📄 global_row_hashes.sqlite
+│   │       │   │   └── 📄 source_file_manifest.json
+│   │       │   ├── 📁 Rejected/
+│   │       │   └── 📁 Reports/
+│   │       │       ├── 📄 Binary_Label_Distribution.csv
+│   │       │       └── 📄 Label_Distribution.csv
+│   │       ├── 📁 CSE-CIC-IDS2018/
+│   │       │   ├── 📁 Cleaned_Data/
+│   │       │   │   ├── 📄 cleaned_part_00001.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00002.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00003.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00004.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00005.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00006.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00007.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00008.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00009.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00010.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00011.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00012.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00013.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00014.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00015.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00016.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00017.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00018.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00019.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00020.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00021.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00022.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00023.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00024.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00025.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00026.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00027.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00028.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00029.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00030.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00031.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00032.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00033.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00034.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00035.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00036.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00037.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00038.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00039.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00040.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00041.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00042.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00043.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00044.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00045.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00046.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00047.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00048.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00049.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00050.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00051.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00052.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00053.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00054.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00055.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00056.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00057.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00058.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00059.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00060.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00061.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00062.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00063.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00064.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00065.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00066.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00067.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00068.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00069.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00070.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00071.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00072.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00073.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00074.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00075.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00076.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00077.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00078.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00079.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00080.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00081.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00082.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00083.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00084.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00085.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00086.csv.gz
+│   │       │   │   ├── 📄 cleaned_part_00087.csv.gz
+│   │       │   │   └── 📄 cleaned_part_00088.csv.gz
+│   │       │   ├── 📁 Manifests/
+│   │       │   │   ├── 📄 global_row_hashes.sqlite
+│   │       │   │   └── 📄 source_file_manifest.json
+│   │       │   ├── 📁 Rejected/
+│   │       │   └── 📁 Reports/
+│   │       │       ├── 📄 Binary_Label_Distribution.csv
+│   │       │       └── 📄 Label_Distribution.csv
+│   │       ├── 📁 Logs/
+│   │       │   └── 📄 step_02_data_cleaning.log
+│   │       ├── 📁 Manifests/
+│   │       │   └── 📄 step_02_run_manifest.json
+│   │       ├── 📁 Reports/
+│   │       │   ├── 📄 Dataset_Cleaning_Summary.csv
+│   │       │   ├── 📄 Dataset_Cleaning_Summary.json
+│   │       │   └── 📄 File_Cleaning_Summary.csv
+│   │       └── 📁 UNSW-NB15/
+│   │           ├── 📁 Cleaned_Data/
+│   │           │   ├── 📄 cleaned_part_00001.csv.gz
+│   │           │   ├── 📄 cleaned_part_00002.csv.gz
+│   │           │   ├── 📄 cleaned_part_00003.csv.gz
+│   │           │   ├── 📄 cleaned_part_00004.csv.gz
+│   │           │   ├── 📄 cleaned_part_00005.csv.gz
+│   │           │   ├── 📄 cleaned_part_00006.csv.gz
+│   │           │   ├── 📄 cleaned_part_00007.csv.gz
+│   │           │   ├── 📄 cleaned_part_00008.csv.gz
+│   │           │   ├── 📄 cleaned_part_00009.csv.gz
+│   │           │   ├── 📄 cleaned_part_00010.csv.gz
+│   │           │   └── 📄 cleaned_part_00011.csv.gz
+│   │           ├── 📁 Manifests/
+│   │           │   ├── 📄 global_row_hashes.sqlite
+│   │           │   └── 📄 source_file_manifest.json
+│   │           ├── 📁 Rejected/
+│   │           └── 📁 Reports/
+│   │               ├── 📄 Binary_Label_Distribution.csv
+│   │               └── 📄 Label_Distribution.csv
+│   └── 📄 CSE-CIC-IDS2018_Download.log
+├── 📁 Experiment_02_Baseline_Models/
+│   └── 📁 Experiment_01_Baseline_Classification/
+│       ├── 📁 CICIDS2017/
+│       │   ├── 📁 Decision_Tree/
+│       │   │   ├── 📁 Metrics/
+│       │   │   │   ├── 📄 classification_report.json
+│       │   │   │   ├── 📄 confusion_matrix.csv
+│       │   │   │   ├── 📄 test_metrics.json
+│       │   │   │   └── 📄 validation_metrics.json
+│       │   │   ├── 📁 Model/
+│       │   │   │   └── 📄 trained_pipeline.pkl
+│       │   │   └── 📁 Predictions/
+│       │   │       └── 📄 test_predictions.csv
+│       │   ├── 📁 Random_Forest/
+│       │   │   ├── 📁 Metrics/
+│       │   │   │   ├── 📄 classification_report.json
+│       │   │   │   ├── 📄 confusion_matrix.csv
+│       │   │   │   ├── 📄 test_metrics.json
+│       │   │   │   └── 📄 validation_metrics.json
+│       │   │   ├── 📁 Model/
+│       │   │   │   └── 📄 trained_pipeline.pkl
+│       │   │   └── 📁 Predictions/
+│       │   │       └── 📄 test_predictions.csv
+│       │   ├── 📁 XGBoost/
+│       │   │   ├── 📁 Metrics/
+│       │   │   │   ├── 📄 classification_report.json
+│       │   │   │   ├── 📄 confusion_matrix.csv
+│       │   │   │   ├── 📄 test_metrics.json
+│       │   │   │   └── 📄 validation_metrics.json
+│       │   │   ├── 📁 Model/
+│       │   │   │   └── 📄 trained_pipeline.pkl
+│       │   │   └── 📁 Predictions/
+│       │   │       └── 📄 test_predictions.csv
+│       │   ├── 📄 dataset_split_summary.csv
+│       │   └── 📄 feature_manifest.json
+│       ├── 📁 CSE-CIC-IDS2018/
+│       │   ├── 📁 CatBoost/
+│       │   │   ├── 📁 Metrics/
+│       │   │   │   ├── 📄 classification_report.json
+│       │   │   │   ├── 📄 confusion_matrix.csv
+│       │   │   │   ├── 📄 test_metrics.json
+│       │   │   │   └── 📄 validation_metrics.json
+│       │   │   ├── 📁 Model/
+│       │   │   │   └── 📄 trained_pipeline.pkl
+│       │   │   └── 📁 Predictions/
+│       │   │       └── 📄 test_predictions.csv
+│       │   ├── 📁 Decision_Tree/
+│       │   │   ├── 📁 Metrics/
+│       │   │   │   ├── 📄 classification_report.json
+│       │   │   │   ├── 📄 confusion_matrix.csv
+│       │   │   │   ├── 📄 test_metrics.json
+│       │   │   │   └── 📄 validation_metrics.json
+│       │   │   ├── 📁 Model/
+│       │   │   │   └── 📄 trained_pipeline.pkl
+│       │   │   └── 📁 Predictions/
+│       │   │       └── 📄 test_predictions.csv
+│       │   ├── 📁 LightGBM/
+│       │   │   ├── 📁 Metrics/
+│       │   │   │   ├── 📄 classification_report.json
+│       │   │   │   ├── 📄 confusion_matrix.csv
+│       │   │   │   ├── 📄 test_metrics.json
+│       │   │   │   └── 📄 validation_metrics.json
+│       │   │   ├── 📁 Model/
+│       │   │   │   └── 📄 trained_pipeline.pkl
+│       │   │   └── 📁 Predictions/
+│       │   │       └── 📄 test_predictions.csv
+│       │   ├── 📁 Random_Forest/
+│       │   │   ├── 📁 Metrics/
+│       │   │   │   ├── 📄 classification_report.json
+│       │   │   │   ├── 📄 confusion_matrix.csv
+│       │   │   │   ├── 📄 test_metrics.json
+│       │   │   │   └── 📄 validation_metrics.json
+│       │   │   ├── 📁 Model/
+│       │   │   │   └── 📄 trained_pipeline.pkl
+│       │   │   └── 📁 Predictions/
+│       │   │       └── 📄 test_predictions.csv
+│       │   ├── 📁 XGBoost/
+│       │   │   ├── 📁 Metrics/
+│       │   │   │   ├── 📄 classification_report.json
+│       │   │   │   ├── 📄 confusion_matrix.csv
+│       │   │   │   ├── 📄 test_metrics.json
+│       │   │   │   └── 📄 validation_metrics.json
+│       │   │   ├── 📁 Model/
+│       │   │   │   └── 📄 trained_pipeline.pkl
+│       │   │   └── 📁 Predictions/
+│       │   │       └── 📄 test_predictions.csv
+│       │   ├── 📄 dataset_split_summary.csv
+│       │   └── 📄 feature_manifest.json
+│       ├── 📁 Logs/
+│       │   └── 📄 experiment_01_baselines.log
+│       ├── 📁 Manifests/
+│       │   └── 📄 experiment_01_run_manifest.json
+│       └── 📁 Reports/
+│           ├── 📄 Baseline_Model_Ranking.csv
+│           ├── 📄 Baseline_Model_Results.csv
+│           ├── 📄 Baseline_Model_Results.json
+│           └── 📄 Dataset_Readiness.csv
+├── 📁 Experiment_03_Framework_Validation/
+│   ├── 📁 Experiment_02_Multiview_Evidence/
+│   │   └── 📁 Phase_02_View_Models/
+│   │       ├── 📁 CICIDS2017/
+│   │       │   ├── 📁 Manifests/
+│   │       │   │   └── 📄 design.json
+│   │       │   ├── 📁 Models/
+│   │       │   │   ├── 📄 directional.pkl
+│   │       │   │   ├── 📄 flags_errors.pkl
+│   │       │   │   ├── 📄 temporal.pkl
+│   │       │   │   ├── 📄 transport.pkl
+│   │       │   │   └── 📄 volume.pkl
+│   │       │   ├── 📁 Predictions/
+│   │       │   │   └── 📄 view_predictions_and_reliability.csv
+│   │       │   └── 📁 Reports/
+│   │       │       └── 📄 view_metrics.csv
+│   │       └── 📁 CSE-CIC-IDS2018/
+│   │           ├── 📁 Logs/
+│   │           │   └── 📄 multiview_execution.log
+│   │           ├── 📁 Manifests/
+│   │           │   └── 📄 design.json
+│   │           ├── 📁 Models/
+│   │           │   ├── 📄 directional.pkl
+│   │           │   ├── 📄 directional_pipeline.pkl
+│   │           │   ├── 📄 flags_errors.pkl
+│   │           │   ├── 📄 flags_errors_pipeline.pkl
+│   │           │   ├── 📄 general.pkl
+│   │           │   ├── 📄 general_pipeline.pkl
+│   │           │   ├── 📄 temporal.pkl
+│   │           │   ├── 📄 temporal_pipeline.pkl
+│   │           │   ├── 📄 transport.pkl
+│   │           │   ├── 📄 transport_pipeline.pkl
+│   │           │   ├── 📄 volume.pkl
+│   │           │   └── 📄 volume_pipeline.pkl
+│   │           ├── 📁 Predictions/
+│   │           │   └── 📄 view_predictions_and_reliability.csv
+│   │           └── 📁 Reports/
+│   │               └── 📄 view_metrics.csv
+│   ├── 📁 Experiment_02_Original_Feature_Representation/
+│   │   ├── 📁 Phase_01_Original_Feature_Evaluation/
+│   │   │   ├── 📁 CICIDS2017/
+│   │   │   │   ├── 📁 Figures/
+│   │   │   │   │   ├── 📄 test_precision_recall_curve.png
+│   │   │   │   │   └── 📄 test_roc_curve.png
+│   │   │   │   ├── 📁 Manifests/
+│   │   │   │   │   └── 📄 original_feature_manifest.json
+│   │   │   │   ├── 📁 Metrics/
+│   │   │   │   │   ├── 📄 feature_importance.csv
+│   │   │   │   │   ├── 📄 feature_importance_top30.png
+│   │   │   │   │   ├── 📄 test_classification_report.json
+│   │   │   │   │   ├── 📄 test_confusion_matrix.csv
+│   │   │   │   │   ├── 📄 test_metrics.json
+│   │   │   │   │   ├── 📄 validation_classification_report.json
+│   │   │   │   │   └── 📄 validation_metrics.json
+│   │   │   │   ├── 📁 Model/
+│   │   │   │   │   └── 📄 original_feature_xgboost_pipeline.pkl
+│   │   │   │   ├── 📁 Predictions/
+│   │   │   │   │   ├── 📄 test_predictions.csv
+│   │   │   │   │   └── 📄 validation_predictions.csv
+│   │   │   │   ├── 📁 Splits/
+│   │   │   │   │   ├── 📄 fixed_split_assignments.csv
+│   │   │   │   │   └── 📄 split_summary.csv
+│   │   │   │   └── 📄 experiment_result.json
+│   │   │   ├── 📁 CSE-CIC-IDS2018/
+│   │   │   │   ├── 📁 Figures/
+│   │   │   │   │   ├── 📄 test_precision_recall_curve.png
+│   │   │   │   │   └── 📄 test_roc_curve.png
+│   │   │   │   ├── 📁 Manifests/
+│   │   │   │   │   └── 📄 original_feature_manifest.json
+│   │   │   │   ├── 📁 Metrics/
+│   │   │   │   │   ├── 📄 feature_importance.csv
+│   │   │   │   │   ├── 📄 feature_importance_top30.png
+│   │   │   │   │   ├── 📄 test_classification_report.json
+│   │   │   │   │   ├── 📄 test_confusion_matrix.csv
+│   │   │   │   │   ├── 📄 test_metrics.json
+│   │   │   │   │   ├── 📄 validation_classification_report.json
+│   │   │   │   │   └── 📄 validation_metrics.json
+│   │   │   │   ├── 📁 Model/
+│   │   │   │   │   └── 📄 original_feature_xgboost_pipeline.pkl
+│   │   │   │   ├── 📁 Predictions/
+│   │   │   │   │   ├── 📄 test_predictions.csv
+│   │   │   │   │   └── 📄 validation_predictions.csv
+│   │   │   │   ├── 📁 Splits/
+│   │   │   │   │   ├── 📄 fixed_split_assignments.csv
+│   │   │   │   │   └── 📄 split_summary.csv
+│   │   │   │   └── 📄 experiment_result.json
+│   │   │   ├── 📁 Logs/
+│   │   │   │   └── 📄 experiment_02_1_original_features.log
+│   │   │   ├── 📁 Manifests/
+│   │   │   │   └── 📄 experiment_02_1_run_manifest.json
+│   │   │   └── 📁 Reports/
+│   │   │       ├── 📄 Dataset_Readiness.csv
+│   │   │       ├── 📄 Original_Feature_Evaluation_Results.csv
+│   │   │       └── 📄 Original_Feature_Evaluation_Results.json
+│   │   └── 📁 Phase_02_Forensic_Evidence_Representation/
+│   │       ├── 📁 CICIDS2017/
+│   │       │   ├── 📁 Evidence/
+│   │       │   │   └── 📄 test_evidence_quality_sample.csv
+│   │       │   ├── 📁 Figures/
+│   │       │   │   ├── 📄 test_precision_recall_curve.png
+│   │       │   │   └── 📄 test_roc_curve.png
+│   │       │   ├── 📁 Manifests/
+│   │       │   │   └── 📄 forensic_evidence_manifest.json
+│   │       │   ├── 📁 Metrics/
+│   │       │   │   ├── 📄 evidence_feature_importance.csv
+│   │       │   │   ├── 📄 evidence_feature_importance_top30.png
+│   │       │   │   ├── 📄 paired_representation_comparison.csv
+│   │       │   │   ├── 📄 test_classification_report.json
+│   │       │   │   ├── 📄 test_confusion_matrix.csv
+│   │       │   │   ├── 📄 test_metrics.json
+│   │       │   │   └── 📄 validation_metrics.json
+│   │       │   ├── 📁 Model/
+│   │       │   │   └── 📄 forensic_evidence_xgboost_pipeline.pkl
+│   │       │   ├── 📁 Predictions/
+│   │       │   │   ├── 📄 test_predictions.csv
+│   │       │   │   └── 📄 validation_predictions.csv
+│   │       │   └── 📄 experiment_result.json
+│   │       ├── 📁 CSE-CIC-IDS2018/
+│   │       │   ├── 📁 Evidence/
+│   │       │   │   └── 📄 test_evidence_quality_sample.csv
+│   │       │   ├── 📁 Figures/
+│   │       │   │   ├── 📄 test_precision_recall_curve.png
+│   │       │   │   └── 📄 test_roc_curve.png
+│   │       │   ├── 📁 Manifests/
+│   │       │   │   └── 📄 forensic_evidence_manifest.json
+│   │       │   ├── 📁 Metrics/
+│   │       │   │   ├── 📄 evidence_feature_importance.csv
+│   │       │   │   ├── 📄 evidence_feature_importance_top30.png
+│   │       │   │   ├── 📄 paired_representation_comparison.csv
+│   │       │   │   ├── 📄 test_classification_report.json
+│   │       │   │   ├── 📄 test_confusion_matrix.csv
+│   │       │   │   ├── 📄 test_metrics.json
+│   │       │   │   └── 📄 validation_metrics.json
+│   │       │   ├── 📁 Model/
+│   │       │   │   └── 📄 forensic_evidence_xgboost_pipeline.pkl
+│   │       │   ├── 📁 Predictions/
+│   │       │   │   ├── 📄 test_predictions.csv
+│   │       │   │   └── 📄 validation_predictions.csv
+│   │       │   └── 📄 experiment_result.json
+│   │       ├── 📁 Logs/
+│   │       │   └── 📄 experiment_02_2_forensic_evidence.log
+│   │       ├── 📁 Manifests/
+│   │       │   └── 📄 experiment_02_2_run_manifest.json
+│   │       └── 📁 Reports/
+│   │           ├── 📄 Dataset_Readiness.csv
+│   │           ├── 📄 Forensic_Evidence_Representation_Results.csv
+│   │           ├── 📄 Forensic_Evidence_Representation_Results.json
+│   │           └── 📄 Original_vs_Evidence_Comparison.csv
+│   ├── 📁 Experiment_03_FERF_Validation/
+│   │   ├── 📁 CICIDS2017/
+│   │   │   ├── 📁 Figures/
+│   │   │   │   ├── 📄 ferf_component_precision_recall_curves.png
+│   │   │   │   └── 📄 ferf_component_roc_curves.png
+│   │   │   ├── 📁 Manifests/
+│   │   │   │   └── 📄 ferf_manifest.json
+│   │   │   ├── 📁 Metrics/
+│   │   │   │   ├── 📄 branch_and_fusion_metrics.csv
+│   │   │   │   ├── 📄 ferf_test_classification_report.json
+│   │   │   │   ├── 📄 ferf_test_confusion_matrix.csv
+│   │   │   │   ├── 📄 optimized_ferf_configuration.json
+│   │   │   │   ├── 📄 test_ferf_metrics.json
+│   │   │   │   ├── 📄 validation_ferf_metrics.json
+│   │   │   │   └── 📄 validation_weight_threshold_search.csv
+│   │   │   ├── 📁 Model/
+│   │   │   │   └── 📄 quality_conditioned_pipeline.pkl
+│   │   │   ├── 📁 Predictions/
+│   │   │   │   ├── 📄 ferf_test_predictions.csv
+│   │   │   │   └── 📄 ferf_validation_predictions.csv
+│   │   │   ├── 📁 Reliability/
+│   │   │   │   ├── 📄 agreement_disagreement_analysis.csv
+│   │   │   │   └── 📄 reliability_summary.csv
+│   │   │   └── 📄 ferf_experiment_result.json
+│   │   ├── 📁 CSE-CIC-IDS2018/
+│   │   │   ├── 📁 Figures/
+│   │   │   │   ├── 📄 ferf_component_precision_recall_curves.png
+│   │   │   │   └── 📄 ferf_component_roc_curves.png
+│   │   │   ├── 📁 Manifests/
+│   │   │   │   └── 📄 ferf_manifest.json
+│   │   │   ├── 📁 Metrics/
+│   │   │   │   ├── 📄 branch_and_fusion_metrics.csv
+│   │   │   │   ├── 📄 ferf_test_classification_report.json
+│   │   │   │   ├── 📄 ferf_test_confusion_matrix.csv
+│   │   │   │   ├── 📄 optimized_ferf_configuration.json
+│   │   │   │   ├── 📄 test_ferf_metrics.json
+│   │   │   │   ├── 📄 validation_ferf_metrics.json
+│   │   │   │   └── 📄 validation_weight_threshold_search.csv
+│   │   │   ├── 📁 Model/
+│   │   │   │   └── 📄 quality_conditioned_pipeline.pkl
+│   │   │   ├── 📁 Predictions/
+│   │   │   │   ├── 📄 ferf_test_predictions.csv
+│   │   │   │   └── 📄 ferf_validation_predictions.csv
+│   │   │   ├── 📁 Reliability/
+│   │   │   │   ├── 📄 agreement_disagreement_analysis.csv
+│   │   │   │   └── 📄 reliability_summary.csv
+│   │   │   └── 📄 ferf_experiment_result.json
+│   │   ├── 📁 Logs/
+│   │   │   └── 📄 experiment_03_ferf_validation.log
+│   │   ├── 📁 Manifests/
+│   │   │   └── 📄 experiment_03_run_manifest.json
+│   │   └── 📁 Reports/
+│   │       ├── 📄 Dataset_Readiness.csv
+│   │       ├── 📄 FERF_Method_Comparison.csv
+│   │       ├── 📄 FERF_Validation_Results.csv
+│   │       └── 📄 FERF_Validation_Results.json
+│   └── 📁 Experiment_03_FERF_Validation_Corrected/
+│       └── 📁 CICIDS2017/
+│           ├── 📁 Manifests/
+│           │   └── 📄 ferf_configuration.json
+│           ├── 📁 Predictions/
+│           │   └── 📄 ferf_test_predictions.csv
+│           └── 📁 Reports/
+│               ├── 📄 ferf_comparison.csv
+│               └── 📄 validation_search.csv
+├── 📁 Experiment_04_Ablation_Study/
+├── 📁 Experiment_05_Cross_Dataset_Validation/
+├── 📁 Experiment_06_Computational_Efficiency/
+├── 📁 Experiment_07_Statistical_Analysis/
+└── 📁 Experiment_08_Final_Results/

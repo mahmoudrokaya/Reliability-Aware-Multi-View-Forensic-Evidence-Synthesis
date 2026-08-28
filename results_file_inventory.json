@@ -1,0 +1,3179 @@
+{
+    "generated": "2026-08-27T18:23:25.592679",
+    "root": "D:\\47\\472\\New-Papers\\Digital_Forensics_Framework_Network Intrusions\\Experiments\\Results",
+    "folder_count": 154,
+    "file_count": 352,
+    "total_size_bytes": 4031442934,
+    "total_size_mb": 3844.684,
+    "total_size_gb": 3.755,
+    "files": [
+        {
+            "relative_path": "_Folder_Structure\\results_file_inventory.csv",
+            "parent_folder": "_Folder_Structure",
+            "filename": "results_file_inventory.csv",
+            "extension": ".csv",
+            "size_bytes": 103878,
+            "size_kb": 101.443,
+            "size_mb": 0.099
+        },
+        {
+            "relative_path": "_Folder_Structure\\results_file_inventory.json",
+            "parent_folder": "_Folder_Structure",
+            "filename": "results_file_inventory.json",
+            "extension": ".json",
+            "size_bytes": 184276,
+            "size_kb": 179.957,
+            "size_mb": 0.176
+        },
+        {
+            "relative_path": "_Folder_Structure\\results_folder_summary.txt",
+            "parent_folder": "_Folder_Structure",
+            "filename": "results_folder_summary.txt",
+            "extension": ".txt",
+            "size_bytes": 697,
+            "size_kb": 0.681,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "_Folder_Structure\\results_folder_tree.txt",
+            "parent_folder": "_Folder_Structure",
+            "filename": "results_folder_tree.txt",
+            "extension": ".txt",
+            "size_bytes": 34819,
+            "size_kb": 34.003,
+            "size_mb": 0.033
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Download_Logs\\dataset_download.log",
+            "parent_folder": "Experiment_01_Data_Preparation\\Download_Logs",
+            "filename": "dataset_download.log",
+            "extension": ".log",
+            "size_bytes": 4758,
+            "size_kb": 4.646,
+            "size_mb": 0.005
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Download_Logs\\download_manifest.csv",
+            "parent_folder": "Experiment_01_Data_Preparation\\Download_Logs",
+            "filename": "download_manifest.csv",
+            "extension": ".csv",
+            "size_bytes": 308,
+            "size_kb": 0.301,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Download_Logs\\download_manifest.json",
+            "parent_folder": "Experiment_01_Data_Preparation\\Download_Logs",
+            "filename": "download_manifest.json",
+            "extension": ".json",
+            "size_bytes": 416,
+            "size_kb": 0.406,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Download_Logs\\official_dataset_registry.json",
+            "parent_folder": "Experiment_01_Data_Preparation\\Download_Logs",
+            "filename": "official_dataset_registry.json",
+            "extension": ".json",
+            "size_bytes": 1530,
+            "size_kb": 1.494,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_01_Acquisition\\Logs\\phase_01_acquisition.log",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_01_Acquisition\\Logs",
+            "filename": "phase_01_acquisition.log",
+            "extension": ".log",
+            "size_bytes": 12262,
+            "size_kb": 11.975,
+            "size_mb": 0.012
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_01_Acquisition\\Manifests\\phase_01_file_manifest.csv",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_01_Acquisition\\Manifests",
+            "filename": "phase_01_file_manifest.csv",
+            "extension": ".csv",
+            "size_bytes": 6780,
+            "size_kb": 6.621,
+            "size_mb": 0.006
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_01_Acquisition\\Manifests\\phase_01_file_manifest.json",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_01_Acquisition\\Manifests",
+            "filename": "phase_01_file_manifest.json",
+            "extension": ".json",
+            "size_bytes": 9768,
+            "size_kb": 9.539,
+            "size_mb": 0.009
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_01_Acquisition\\Reports\\phase_01_acquisition_summary.csv",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_01_Acquisition\\Reports",
+            "filename": "phase_01_acquisition_summary.csv",
+            "extension": ".csv",
+            "size_bytes": 823,
+            "size_kb": 0.804,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_01_Acquisition\\Reports\\phase_01_acquisition_summary.json",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_01_Acquisition\\Reports",
+            "filename": "phase_01_acquisition_summary.json",
+            "extension": ".json",
+            "size_bytes": 1935,
+            "size_kb": 1.89,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_01_File_Verification\\Logs\\step_01_file_verification.log",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_01_File_Verification\\Logs",
+            "filename": "step_01_file_verification.log",
+            "extension": ".log",
+            "size_bytes": 8825,
+            "size_kb": 8.618,
+            "size_mb": 0.008
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_01_File_Verification\\Manifests\\step_01_run_manifest.json",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_01_File_Verification\\Manifests",
+            "filename": "step_01_run_manifest.json",
+            "extension": ".json",
+            "size_bytes": 575,
+            "size_kb": 0.562,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_01_File_Verification\\Reports\\Dataset_Verification_Summary.csv",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_01_File_Verification\\Reports",
+            "filename": "Dataset_Verification_Summary.csv",
+            "extension": ".csv",
+            "size_bytes": 719,
+            "size_kb": 0.702,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_01_File_Verification\\Reports\\Dataset_Verification_Summary.json",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_01_File_Verification\\Reports",
+            "filename": "Dataset_Verification_Summary.json",
+            "extension": ".json",
+            "size_bytes": 2437,
+            "size_kb": 2.38,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_01_File_Verification\\Reports\\Integrity_Report.csv",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_01_File_Verification\\Reports",
+            "filename": "Integrity_Report.csv",
+            "extension": ".csv",
+            "size_bytes": 238691,
+            "size_kb": 233.097,
+            "size_mb": 0.228
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_01_File_Verification\\Reports\\Integrity_Report.json",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_01_File_Verification\\Reports",
+            "filename": "Integrity_Report.json",
+            "extension": ".json",
+            "size_bytes": 299163,
+            "size_kb": 292.151,
+            "size_mb": 0.285
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\BoT-IoT\\Manifests\\global_row_hashes.sqlite",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\BoT-IoT\\Manifests",
+            "filename": "global_row_hashes.sqlite",
+            "extension": ".sqlite",
+            "size_bytes": 12288,
+            "size_kb": 12.0,
+            "size_mb": 0.012
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00001.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00001.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 16977414,
+            "size_kb": 16579.506,
+            "size_mb": 16.191
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00002.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00002.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 2335845,
+            "size_kb": 2281.099,
+            "size_mb": 2.228
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00003.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00003.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 9875125,
+            "size_kb": 9643.677,
+            "size_mb": 9.418
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00004.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00004.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 3944020,
+            "size_kb": 3851.582,
+            "size_mb": 3.761
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00005.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00005.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 17339012,
+            "size_kb": 16932.629,
+            "size_mb": 16.536
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00006.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00006.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 23986747,
+            "size_kb": 23424.558,
+            "size_mb": 22.876
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00007.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00007.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 21381752,
+            "size_kb": 20880.617,
+            "size_mb": 20.391
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00008.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00008.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 9539888,
+            "size_kb": 9316.297,
+            "size_mb": 9.098
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00009.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00009.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 14323631,
+            "size_kb": 13987.921,
+            "size_mb": 13.66
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00010.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00010.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 6901004,
+            "size_kb": 6739.262,
+            "size_mb": 6.581
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00011.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00011.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 15400569,
+            "size_kb": 15039.618,
+            "size_mb": 14.687
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00012.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00012.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 21005236,
+            "size_kb": 20512.926,
+            "size_mb": 20.032
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00013.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00013.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 15906058,
+            "size_kb": 15533.26,
+            "size_mb": 15.169
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00014.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00014.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 2986375,
+            "size_kb": 2916.382,
+            "size_mb": 2.848
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00015.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00015.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 18634557,
+            "size_kb": 18197.81,
+            "size_mb": 17.771
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00016.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00016.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 17920197,
+            "size_kb": 17500.192,
+            "size_mb": 17.09
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00017.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00017.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 17436397,
+            "size_kb": 17027.731,
+            "size_mb": 16.629
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data\\cleaned_part_00018.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Cleaned_Data",
+            "filename": "cleaned_part_00018.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 6335627,
+            "size_kb": 6187.136,
+            "size_mb": 6.042
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Manifests\\global_row_hashes.sqlite",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Manifests",
+            "filename": "global_row_hashes.sqlite",
+            "extension": ".sqlite",
+            "size_bytes": 149729280,
+            "size_kb": 146220.0,
+            "size_mb": 142.793
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Manifests\\source_file_manifest.json",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Manifests",
+            "filename": "source_file_manifest.json",
+            "extension": ".json",
+            "size_bytes": 2960,
+            "size_kb": 2.891,
+            "size_mb": 0.003
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Reports\\Binary_Label_Distribution.csv",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Reports",
+            "filename": "Binary_Label_Distribution.csv",
+            "extension": ".csv",
+            "size_bytes": 66,
+            "size_kb": 0.064,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Reports\\Label_Distribution.csv",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CICIDS2017\\Reports",
+            "filename": "Label_Distribution.csv",
+            "extension": ".csv",
+            "size_bytes": 310,
+            "size_kb": 0.303,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00001.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00001.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 13357117,
+            "size_kb": 13044.06,
+            "size_mb": 12.738
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00002.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00002.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 14731059,
+            "size_kb": 14385.8,
+            "size_mb": 14.049
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00003.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00003.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 19270493,
+            "size_kb": 18818.841,
+            "size_mb": 18.378
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00004.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00004.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 19043770,
+            "size_kb": 18597.432,
+            "size_mb": 18.162
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00005.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00005.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 19147166,
+            "size_kb": 18698.404,
+            "size_mb": 18.26
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00006.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00006.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 4521245,
+            "size_kb": 4415.278,
+            "size_mb": 4.312
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00007.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00007.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 8876788,
+            "size_kb": 8668.738,
+            "size_mb": 8.466
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00008.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00008.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 16525455,
+            "size_kb": 16138.14,
+            "size_mb": 15.76
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00009.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00009.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 16353347,
+            "size_kb": 15970.065,
+            "size_mb": 15.596
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00010.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00010.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 16394324,
+            "size_kb": 16010.082,
+            "size_mb": 15.635
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00011.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00011.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 16347536,
+            "size_kb": 15964.391,
+            "size_mb": 15.59
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00012.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00012.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 3045,
+            "size_kb": 2.974,
+            "size_mb": 0.003
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00013.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00013.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20371492,
+            "size_kb": 19894.035,
+            "size_mb": 19.428
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00014.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00014.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20351557,
+            "size_kb": 19874.567,
+            "size_mb": 19.409
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00015.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00015.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20363898,
+            "size_kb": 19886.619,
+            "size_mb": 19.421
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00016.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00016.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20299319,
+            "size_kb": 19823.554,
+            "size_mb": 19.359
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00017.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00017.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20136189,
+            "size_kb": 19664.247,
+            "size_mb": 19.203
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00018.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00018.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 4763273,
+            "size_kb": 4651.634,
+            "size_mb": 4.543
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00019.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00019.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 17462899,
+            "size_kb": 17053.612,
+            "size_mb": 16.654
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00020.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00020.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 13567698,
+            "size_kb": 13249.705,
+            "size_mb": 12.939
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00021.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00021.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 11895242,
+            "size_kb": 11616.447,
+            "size_mb": 11.344
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00022.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00022.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 26108720,
+            "size_kb": 25496.797,
+            "size_mb": 24.899
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00023.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00023.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 26142150,
+            "size_kb": 25529.443,
+            "size_mb": 24.931
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00024.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00024.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 26107348,
+            "size_kb": 25495.457,
+            "size_mb": 24.898
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00025.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00025.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 26182037,
+            "size_kb": 25568.396,
+            "size_mb": 24.969
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00026.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00026.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 25939169,
+            "size_kb": 25331.22,
+            "size_mb": 24.738
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00027.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00027.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 26333362,
+            "size_kb": 25716.174,
+            "size_mb": 25.113
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00028.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00028.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 25272623,
+            "size_kb": 24680.296,
+            "size_mb": 24.102
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00029.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00029.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 26401538,
+            "size_kb": 25782.752,
+            "size_mb": 25.178
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00030.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00030.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 26295084,
+            "size_kb": 25678.793,
+            "size_mb": 25.077
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00031.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00031.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 26540831,
+            "size_kb": 25918.78,
+            "size_mb": 25.311
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00032.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00032.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 26382620,
+            "size_kb": 25764.277,
+            "size_mb": 25.16
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00033.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00033.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 27229582,
+            "size_kb": 26591.389,
+            "size_mb": 25.968
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00034.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00034.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 27330924,
+            "size_kb": 26690.355,
+            "size_mb": 26.065
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00035.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00035.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 27120614,
+            "size_kb": 26484.975,
+            "size_mb": 25.864
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00036.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00036.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 26970242,
+            "size_kb": 26338.127,
+            "size_mb": 25.721
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00037.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00037.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 27225820,
+            "size_kb": 26587.715,
+            "size_mb": 25.965
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00038.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00038.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 27462511,
+            "size_kb": 26818.858,
+            "size_mb": 26.19
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00039.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00039.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 27212306,
+            "size_kb": 26574.518,
+            "size_mb": 25.952
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00040.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00040.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 27082861,
+            "size_kb": 26448.106,
+            "size_mb": 25.828
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00041.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00041.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 27173576,
+            "size_kb": 26536.695,
+            "size_mb": 25.915
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00042.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00042.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 27125728,
+            "size_kb": 26489.969,
+            "size_mb": 25.869
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00043.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00043.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 26807670,
+            "size_kb": 26179.365,
+            "size_mb": 25.566
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00044.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00044.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 27098916,
+            "size_kb": 26463.785,
+            "size_mb": 25.844
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00045.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00045.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 27228010,
+            "size_kb": 26589.854,
+            "size_mb": 25.967
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00046.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00046.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 27029849,
+            "size_kb": 26396.337,
+            "size_mb": 25.778
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00047.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00047.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 27061651,
+            "size_kb": 26427.394,
+            "size_mb": 25.808
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00048.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00048.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 27138174,
+            "size_kb": 26502.123,
+            "size_mb": 25.881
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00049.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00049.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 26741377,
+            "size_kb": 26114.626,
+            "size_mb": 25.503
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00050.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00050.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 26296845,
+            "size_kb": 25680.513,
+            "size_mb": 25.079
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00051.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00051.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 26649359,
+            "size_kb": 26024.765,
+            "size_mb": 25.415
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00052.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00052.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 26217811,
+            "size_kb": 25603.331,
+            "size_mb": 25.003
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00053.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00053.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 26249829,
+            "size_kb": 25634.599,
+            "size_mb": 25.034
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00054.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00054.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 26506750,
+            "size_kb": 25885.498,
+            "size_mb": 25.279
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00055.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00055.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 24592565,
+            "size_kb": 24016.177,
+            "size_mb": 23.453
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00056.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00056.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 24233790,
+            "size_kb": 23665.811,
+            "size_mb": 23.111
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00057.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00057.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 24590081,
+            "size_kb": 24013.751,
+            "size_mb": 23.451
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00058.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00058.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 17710830,
+            "size_kb": 17295.732,
+            "size_mb": 16.89
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00059.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00059.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 16996828,
+            "size_kb": 16598.465,
+            "size_mb": 16.209
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00060.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00060.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 11322178,
+            "size_kb": 11056.814,
+            "size_mb": 10.798
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00061.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00061.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20730212,
+            "size_kb": 20244.348,
+            "size_mb": 19.77
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00062.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00062.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20665061,
+            "size_kb": 20180.724,
+            "size_mb": 19.708
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00063.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00063.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20249446,
+            "size_kb": 19774.85,
+            "size_mb": 19.311
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00064.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00064.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20343752,
+            "size_kb": 19866.945,
+            "size_mb": 19.401
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00065.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00065.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20145175,
+            "size_kb": 19673.022,
+            "size_mb": 19.212
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00066.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00066.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 4940750,
+            "size_kb": 4824.951,
+            "size_mb": 4.712
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00067.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00067.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20425475,
+            "size_kb": 19946.753,
+            "size_mb": 19.479
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00068.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00068.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20197525,
+            "size_kb": 19724.146,
+            "size_mb": 19.262
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00069.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00069.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20124702,
+            "size_kb": 19653.029,
+            "size_mb": 19.192
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00070.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00070.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20514774,
+            "size_kb": 20033.959,
+            "size_mb": 19.564
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00071.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00071.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20556407,
+            "size_kb": 20074.616,
+            "size_mb": 19.604
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00072.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00072.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 4778298,
+            "size_kb": 4666.307,
+            "size_mb": 4.557
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00073.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00073.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 2428629,
+            "size_kb": 2371.708,
+            "size_mb": 2.316
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00074.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00074.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 11485169,
+            "size_kb": 11215.985,
+            "size_mb": 10.953
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00075.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00075.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20720194,
+            "size_kb": 20234.564,
+            "size_mb": 19.76
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00076.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00076.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 21383961,
+            "size_kb": 20882.774,
+            "size_mb": 20.393
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00077.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00077.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20484396,
+            "size_kb": 20004.293,
+            "size_mb": 19.535
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00078.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00078.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 4983349,
+            "size_kb": 4866.552,
+            "size_mb": 4.752
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00079.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00079.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 12684825,
+            "size_kb": 12387.524,
+            "size_mb": 12.097
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00080.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00080.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 11757445,
+            "size_kb": 11481.88,
+            "size_mb": 11.213
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00081.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00081.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 11078319,
+            "size_kb": 10818.671,
+            "size_mb": 10.565
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00082.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00082.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 11043481,
+            "size_kb": 10784.649,
+            "size_mb": 10.532
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00083.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00083.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 11152108,
+            "size_kb": 10890.73,
+            "size_mb": 10.635
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00084.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00084.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 2660167,
+            "size_kb": 2597.819,
+            "size_mb": 2.537
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00085.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00085.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 20044410,
+            "size_kb": 19574.619,
+            "size_mb": 19.116
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00086.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00086.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 18198349,
+            "size_kb": 17771.825,
+            "size_mb": 17.355
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00087.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00087.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 18761740,
+            "size_kb": 18322.012,
+            "size_mb": 17.893
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data\\cleaned_part_00088.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Cleaned_Data",
+            "filename": "cleaned_part_00088.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 688730,
+            "size_kb": 672.588,
+            "size_mb": 0.657
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Manifests\\global_row_hashes.sqlite",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Manifests",
+            "filename": "global_row_hashes.sqlite",
+            "extension": ".sqlite",
+            "size_bytes": 958881792,
+            "size_kb": 936408.0,
+            "size_mb": 914.461
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Manifests\\source_file_manifest.json",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Manifests",
+            "filename": "source_file_manifest.json",
+            "extension": ".json",
+            "size_bytes": 3916,
+            "size_kb": 3.824,
+            "size_mb": 0.004
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Reports\\Binary_Label_Distribution.csv",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Reports",
+            "filename": "Binary_Label_Distribution.csv",
+            "extension": ".csv",
+            "size_bytes": 68,
+            "size_kb": 0.066,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Reports\\Label_Distribution.csv",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\CSE-CIC-IDS2018\\Reports",
+            "filename": "Label_Distribution.csv",
+            "extension": ".csv",
+            "size_bytes": 367,
+            "size_kb": 0.358,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\Logs\\step_02_data_cleaning.log",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\Logs",
+            "filename": "step_02_data_cleaning.log",
+            "extension": ".log",
+            "size_bytes": 26438,
+            "size_kb": 25.818,
+            "size_mb": 0.025
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\Manifests\\step_02_run_manifest.json",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\Manifests",
+            "filename": "step_02_run_manifest.json",
+            "extension": ".json",
+            "size_bytes": 721,
+            "size_kb": 0.704,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\Reports\\Dataset_Cleaning_Summary.csv",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\Reports",
+            "filename": "Dataset_Cleaning_Summary.csv",
+            "extension": ".csv",
+            "size_bytes": 1657,
+            "size_kb": 1.618,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\Reports\\Dataset_Cleaning_Summary.json",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\Reports",
+            "filename": "Dataset_Cleaning_Summary.json",
+            "extension": ".json",
+            "size_bytes": 3261,
+            "size_kb": 3.185,
+            "size_mb": 0.003
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\Reports\\File_Cleaning_Summary.csv",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\Reports",
+            "filename": "File_Cleaning_Summary.csv",
+            "extension": ".csv",
+            "size_bytes": 6677,
+            "size_kb": 6.521,
+            "size_mb": 0.006
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data\\cleaned_part_00001.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data",
+            "filename": "cleaned_part_00001.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 926762,
+            "size_kb": 905.041,
+            "size_mb": 0.884
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data\\cleaned_part_00002.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data",
+            "filename": "cleaned_part_00002.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 55031,
+            "size_kb": 53.741,
+            "size_mb": 0.052
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data\\cleaned_part_00003.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data",
+            "filename": "cleaned_part_00003.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 838946,
+            "size_kb": 819.283,
+            "size_mb": 0.8
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data\\cleaned_part_00004.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data",
+            "filename": "cleaned_part_00004.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 361966,
+            "size_kb": 353.482,
+            "size_mb": 0.345
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data\\cleaned_part_00005.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data",
+            "filename": "cleaned_part_00005.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 678605,
+            "size_kb": 662.7,
+            "size_mb": 0.647
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data\\cleaned_part_00006.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data",
+            "filename": "cleaned_part_00006.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 659128,
+            "size_kb": 643.68,
+            "size_mb": 0.629
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data\\cleaned_part_00007.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data",
+            "filename": "cleaned_part_00007.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 656820,
+            "size_kb": 641.426,
+            "size_mb": 0.626
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data\\cleaned_part_00008.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data",
+            "filename": "cleaned_part_00008.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 398448,
+            "size_kb": 389.109,
+            "size_mb": 0.38
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data\\cleaned_part_00009.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data",
+            "filename": "cleaned_part_00009.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 596795,
+            "size_kb": 582.808,
+            "size_mb": 0.569
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data\\cleaned_part_00010.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data",
+            "filename": "cleaned_part_00010.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 732626,
+            "size_kb": 715.455,
+            "size_mb": 0.699
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data\\cleaned_part_00011.csv.gz",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Cleaned_Data",
+            "filename": "cleaned_part_00011.csv.gz",
+            "extension": ".gz",
+            "size_bytes": 131643,
+            "size_kb": 128.558,
+            "size_mb": 0.126
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Manifests\\global_row_hashes.sqlite",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Manifests",
+            "filename": "global_row_hashes.sqlite",
+            "extension": ".sqlite",
+            "size_bytes": 5849088,
+            "size_kb": 5712.0,
+            "size_mb": 5.578
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Manifests\\source_file_manifest.json",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Manifests",
+            "filename": "source_file_manifest.json",
+            "extension": ".json",
+            "size_bytes": 1418,
+            "size_kb": 1.385,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Reports\\Binary_Label_Distribution.csv",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Reports",
+            "filename": "Binary_Label_Distribution.csv",
+            "extension": ".csv",
+            "size_bytes": 59,
+            "size_kb": 0.058,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Reports\\Label_Distribution.csv",
+            "parent_folder": "Experiment_01_Data_Preparation\\Phase_02_Integrity_Verification\\Step_02_Data_Cleaning\\UNSW-NB15\\Reports",
+            "filename": "Label_Distribution.csv",
+            "extension": ".csv",
+            "size_bytes": 163,
+            "size_kb": 0.159,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_01_Data_Preparation\\CSE-CIC-IDS2018_Download.log",
+            "parent_folder": "Experiment_01_Data_Preparation",
+            "filename": "CSE-CIC-IDS2018_Download.log",
+            "extension": ".log",
+            "size_bytes": 2548,
+            "size_kb": 2.488,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Decision_Tree\\Metrics\\classification_report.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Decision_Tree\\Metrics",
+            "filename": "classification_report.json",
+            "extension": ".json",
+            "size_bytes": 669,
+            "size_kb": 0.653,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Decision_Tree\\Metrics\\confusion_matrix.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Decision_Tree\\Metrics",
+            "filename": "confusion_matrix.csv",
+            "extension": ".csv",
+            "size_bytes": 96,
+            "size_kb": 0.094,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Decision_Tree\\Metrics\\test_metrics.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Decision_Tree\\Metrics",
+            "filename": "test_metrics.json",
+            "extension": ".json",
+            "size_bytes": 473,
+            "size_kb": 0.462,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Decision_Tree\\Metrics\\validation_metrics.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Decision_Tree\\Metrics",
+            "filename": "validation_metrics.json",
+            "extension": ".json",
+            "size_bytes": 134,
+            "size_kb": 0.131,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Decision_Tree\\Model\\trained_pipeline.pkl",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Decision_Tree\\Model",
+            "filename": "trained_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 225285,
+            "size_kb": 220.005,
+            "size_mb": 0.215
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Decision_Tree\\Predictions\\test_predictions.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Decision_Tree\\Predictions",
+            "filename": "test_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 1800284,
+            "size_kb": 1758.09,
+            "size_mb": 1.717
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Random_Forest\\Metrics\\classification_report.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Random_Forest\\Metrics",
+            "filename": "classification_report.json",
+            "extension": ".json",
+            "size_bytes": 666,
+            "size_kb": 0.65,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Random_Forest\\Metrics\\confusion_matrix.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Random_Forest\\Metrics",
+            "filename": "confusion_matrix.csv",
+            "extension": ".csv",
+            "size_bytes": 96,
+            "size_kb": 0.094,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Random_Forest\\Metrics\\test_metrics.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Random_Forest\\Metrics",
+            "filename": "test_metrics.json",
+            "extension": ".json",
+            "size_bytes": 472,
+            "size_kb": 0.461,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Random_Forest\\Metrics\\validation_metrics.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Random_Forest\\Metrics",
+            "filename": "validation_metrics.json",
+            "extension": ".json",
+            "size_bytes": 133,
+            "size_kb": 0.13,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Random_Forest\\Model\\trained_pipeline.pkl",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Random_Forest\\Model",
+            "filename": "trained_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 52387232,
+            "size_kb": 51159.406,
+            "size_mb": 49.96
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Random_Forest\\Predictions\\test_predictions.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\Random_Forest\\Predictions",
+            "filename": "test_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 1812568,
+            "size_kb": 1770.086,
+            "size_mb": 1.729
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\XGBoost\\Metrics\\classification_report.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\XGBoost\\Metrics",
+            "filename": "classification_report.json",
+            "extension": ".json",
+            "size_bytes": 666,
+            "size_kb": 0.65,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\XGBoost\\Metrics\\confusion_matrix.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\XGBoost\\Metrics",
+            "filename": "confusion_matrix.csv",
+            "extension": ".csv",
+            "size_bytes": 95,
+            "size_kb": 0.093,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\XGBoost\\Metrics\\test_metrics.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\XGBoost\\Metrics",
+            "filename": "test_metrics.json",
+            "extension": ".json",
+            "size_bytes": 469,
+            "size_kb": 0.458,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\XGBoost\\Metrics\\validation_metrics.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\XGBoost\\Metrics",
+            "filename": "validation_metrics.json",
+            "extension": ".json",
+            "size_bytes": 134,
+            "size_kb": 0.131,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\XGBoost\\Model\\trained_pipeline.pkl",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\XGBoost\\Model",
+            "filename": "trained_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 1290623,
+            "size_kb": 1260.374,
+            "size_mb": 1.231
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\XGBoost\\Predictions\\test_predictions.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\XGBoost\\Predictions",
+            "filename": "test_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 3618040,
+            "size_kb": 3533.242,
+            "size_mb": 3.45
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\dataset_split_summary.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017",
+            "filename": "dataset_split_summary.csv",
+            "extension": ".csv",
+            "size_bytes": 120,
+            "size_kb": 0.117,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017\\feature_manifest.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CICIDS2017",
+            "filename": "feature_manifest.json",
+            "extension": ".json",
+            "size_bytes": 2248,
+            "size_kb": 2.195,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\CatBoost\\Metrics\\classification_report.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\CatBoost\\Metrics",
+            "filename": "classification_report.json",
+            "extension": ".json",
+            "size_bytes": 669,
+            "size_kb": 0.653,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\CatBoost\\Metrics\\confusion_matrix.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\CatBoost\\Metrics",
+            "filename": "confusion_matrix.csv",
+            "extension": ".csv",
+            "size_bytes": 96,
+            "size_kb": 0.094,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\CatBoost\\Metrics\\test_metrics.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\CatBoost\\Metrics",
+            "filename": "test_metrics.json",
+            "extension": ".json",
+            "size_bytes": 475,
+            "size_kb": 0.464,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\CatBoost\\Metrics\\validation_metrics.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\CatBoost\\Metrics",
+            "filename": "validation_metrics.json",
+            "extension": ".json",
+            "size_bytes": 134,
+            "size_kb": 0.131,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\CatBoost\\Model\\trained_pipeline.pkl",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\CatBoost\\Model",
+            "filename": "trained_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 1280853,
+            "size_kb": 1250.833,
+            "size_mb": 1.222
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\CatBoost\\Predictions\\test_predictions.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\CatBoost\\Predictions",
+            "filename": "test_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 5256883,
+            "size_kb": 5133.675,
+            "size_mb": 5.013
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Decision_Tree\\Metrics\\classification_report.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Decision_Tree\\Metrics",
+            "filename": "classification_report.json",
+            "extension": ".json",
+            "size_bytes": 653,
+            "size_kb": 0.638,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Decision_Tree\\Metrics\\confusion_matrix.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Decision_Tree\\Metrics",
+            "filename": "confusion_matrix.csv",
+            "extension": ".csv",
+            "size_bytes": 98,
+            "size_kb": 0.096,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Decision_Tree\\Metrics\\test_metrics.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Decision_Tree\\Metrics",
+            "filename": "test_metrics.json",
+            "extension": ".json",
+            "size_bytes": 476,
+            "size_kb": 0.465,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Decision_Tree\\Metrics\\validation_metrics.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Decision_Tree\\Metrics",
+            "filename": "validation_metrics.json",
+            "extension": ".json",
+            "size_bytes": 134,
+            "size_kb": 0.131,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Decision_Tree\\Model\\trained_pipeline.pkl",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Decision_Tree\\Model",
+            "filename": "trained_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 2041931,
+            "size_kb": 1994.073,
+            "size_mb": 1.947
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Decision_Tree\\Predictions\\test_predictions.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Decision_Tree\\Predictions",
+            "filename": "test_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 1811382,
+            "size_kb": 1768.928,
+            "size_mb": 1.727
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\LightGBM\\Metrics\\classification_report.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\LightGBM\\Metrics",
+            "filename": "classification_report.json",
+            "extension": ".json",
+            "size_bytes": 669,
+            "size_kb": 0.653,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\LightGBM\\Metrics\\confusion_matrix.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\LightGBM\\Metrics",
+            "filename": "confusion_matrix.csv",
+            "extension": ".csv",
+            "size_bytes": 98,
+            "size_kb": 0.096,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\LightGBM\\Metrics\\test_metrics.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\LightGBM\\Metrics",
+            "filename": "test_metrics.json",
+            "extension": ".json",
+            "size_bytes": 473,
+            "size_kb": 0.462,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\LightGBM\\Metrics\\validation_metrics.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\LightGBM\\Metrics",
+            "filename": "validation_metrics.json",
+            "extension": ".json",
+            "size_bytes": 133,
+            "size_kb": 0.13,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\LightGBM\\Model\\trained_pipeline.pkl",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\LightGBM\\Model",
+            "filename": "trained_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 2126995,
+            "size_kb": 2077.144,
+            "size_mb": 2.028
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\LightGBM\\Predictions\\test_predictions.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\LightGBM\\Predictions",
+            "filename": "test_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 5241886,
+            "size_kb": 5119.029,
+            "size_mb": 4.999
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Random_Forest\\Metrics\\classification_report.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Random_Forest\\Metrics",
+            "filename": "classification_report.json",
+            "extension": ".json",
+            "size_bytes": 669,
+            "size_kb": 0.653,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Random_Forest\\Metrics\\confusion_matrix.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Random_Forest\\Metrics",
+            "filename": "confusion_matrix.csv",
+            "extension": ".csv",
+            "size_bytes": 97,
+            "size_kb": 0.095,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Random_Forest\\Metrics\\test_metrics.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Random_Forest\\Metrics",
+            "filename": "test_metrics.json",
+            "extension": ".json",
+            "size_bytes": 479,
+            "size_kb": 0.468,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Random_Forest\\Metrics\\validation_metrics.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Random_Forest\\Metrics",
+            "filename": "validation_metrics.json",
+            "extension": ".json",
+            "size_bytes": 134,
+            "size_kb": 0.131,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Random_Forest\\Model\\trained_pipeline.pkl",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Random_Forest\\Model",
+            "filename": "trained_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 369147875,
+            "size_kb": 360495.972,
+            "size_mb": 352.047
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Random_Forest\\Predictions\\test_predictions.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\Random_Forest\\Predictions",
+            "filename": "test_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 1934919,
+            "size_kb": 1889.569,
+            "size_mb": 1.845
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\XGBoost\\Metrics\\classification_report.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\XGBoost\\Metrics",
+            "filename": "classification_report.json",
+            "extension": ".json",
+            "size_bytes": 667,
+            "size_kb": 0.651,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\XGBoost\\Metrics\\confusion_matrix.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\XGBoost\\Metrics",
+            "filename": "confusion_matrix.csv",
+            "extension": ".csv",
+            "size_bytes": 96,
+            "size_kb": 0.094,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\XGBoost\\Metrics\\test_metrics.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\XGBoost\\Metrics",
+            "filename": "test_metrics.json",
+            "extension": ".json",
+            "size_bytes": 473,
+            "size_kb": 0.462,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\XGBoost\\Metrics\\validation_metrics.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\XGBoost\\Metrics",
+            "filename": "validation_metrics.json",
+            "extension": ".json",
+            "size_bytes": 133,
+            "size_kb": 0.13,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\XGBoost\\Model\\trained_pipeline.pkl",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\XGBoost\\Model",
+            "filename": "trained_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 2054362,
+            "size_kb": 2006.213,
+            "size_mb": 1.959
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\XGBoost\\Predictions\\test_predictions.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\XGBoost\\Predictions",
+            "filename": "test_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 3533114,
+            "size_kb": 3450.307,
+            "size_mb": 3.369
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\dataset_split_summary.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018",
+            "filename": "dataset_split_summary.csv",
+            "extension": ".csv",
+            "size_bytes": 120,
+            "size_kb": 0.117,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018\\feature_manifest.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\CSE-CIC-IDS2018",
+            "filename": "feature_manifest.json",
+            "extension": ".json",
+            "size_bytes": 2100,
+            "size_kb": 2.051,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\Logs\\experiment_01_baselines.log",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\Logs",
+            "filename": "experiment_01_baselines.log",
+            "extension": ".log",
+            "size_bytes": 10423,
+            "size_kb": 10.179,
+            "size_mb": 0.01
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\Manifests\\experiment_01_run_manifest.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\Manifests",
+            "filename": "experiment_01_run_manifest.json",
+            "extension": ".json",
+            "size_bytes": 406,
+            "size_kb": 0.396,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\Reports\\Baseline_Model_Ranking.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\Reports",
+            "filename": "Baseline_Model_Ranking.csv",
+            "extension": ".csv",
+            "size_bytes": 2678,
+            "size_kb": 2.615,
+            "size_mb": 0.003
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\Reports\\Baseline_Model_Results.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\Reports",
+            "filename": "Baseline_Model_Results.csv",
+            "extension": ".csv",
+            "size_bytes": 2678,
+            "size_kb": 2.615,
+            "size_mb": 0.003
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\Reports\\Baseline_Model_Results.json",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\Reports",
+            "filename": "Baseline_Model_Results.json",
+            "extension": ".json",
+            "size_bytes": 5171,
+            "size_kb": 5.05,
+            "size_mb": 0.005
+        },
+        {
+            "relative_path": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\Reports\\Dataset_Readiness.csv",
+            "parent_folder": "Experiment_02_Baseline_Models\\Experiment_01_Baseline_Classification\\Reports",
+            "filename": "Dataset_Readiness.csv",
+            "extension": ".csv",
+            "size_bytes": 104,
+            "size_kb": 0.102,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CICIDS2017\\Manifests\\design.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CICIDS2017\\Manifests",
+            "filename": "design.json",
+            "extension": ".json",
+            "size_bytes": 4892,
+            "size_kb": 4.777,
+            "size_mb": 0.005
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CICIDS2017\\Models\\directional.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CICIDS2017\\Models",
+            "filename": "directional.pkl",
+            "extension": ".pkl",
+            "size_bytes": 1249015,
+            "size_kb": 1219.741,
+            "size_mb": 1.191
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CICIDS2017\\Models\\flags_errors.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CICIDS2017\\Models",
+            "filename": "flags_errors.pkl",
+            "extension": ".pkl",
+            "size_bytes": 1515748,
+            "size_kb": 1480.223,
+            "size_mb": 1.446
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CICIDS2017\\Models\\temporal.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CICIDS2017\\Models",
+            "filename": "temporal.pkl",
+            "extension": ".pkl",
+            "size_bytes": 2478111,
+            "size_kb": 2420.03,
+            "size_mb": 2.363
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CICIDS2017\\Models\\transport.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CICIDS2017\\Models",
+            "filename": "transport.pkl",
+            "extension": ".pkl",
+            "size_bytes": 1647259,
+            "size_kb": 1608.651,
+            "size_mb": 1.571
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CICIDS2017\\Models\\volume.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CICIDS2017\\Models",
+            "filename": "volume.pkl",
+            "extension": ".pkl",
+            "size_bytes": 1402559,
+            "size_kb": 1369.687,
+            "size_mb": 1.338
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CICIDS2017\\Predictions\\view_predictions_and_reliability.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CICIDS2017\\Predictions",
+            "filename": "view_predictions_and_reliability.csv",
+            "extension": ".csv",
+            "size_bytes": 110869787,
+            "size_kb": 108271.276,
+            "size_mb": 105.734
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CICIDS2017\\Reports\\view_metrics.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CICIDS2017\\Reports",
+            "filename": "view_metrics.csv",
+            "extension": ".csv",
+            "size_bytes": 1929,
+            "size_kb": 1.884,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Logs\\multiview_execution.log",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Logs",
+            "filename": "multiview_execution.log",
+            "extension": ".log",
+            "size_bytes": 24444,
+            "size_kb": 23.871,
+            "size_mb": 0.023
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Manifests\\design.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Manifests",
+            "filename": "design.json",
+            "extension": ".json",
+            "size_bytes": 3627,
+            "size_kb": 3.542,
+            "size_mb": 0.003
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models\\directional.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models",
+            "filename": "directional.pkl",
+            "extension": ".pkl",
+            "size_bytes": 2063673,
+            "size_kb": 2015.306,
+            "size_mb": 1.968
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models\\directional_pipeline.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models",
+            "filename": "directional_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 1725578,
+            "size_kb": 1685.135,
+            "size_mb": 1.646
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models\\flags_errors.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models",
+            "filename": "flags_errors.pkl",
+            "extension": ".pkl",
+            "size_bytes": 389252,
+            "size_kb": 380.129,
+            "size_mb": 0.371
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models\\flags_errors_pipeline.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models",
+            "filename": "flags_errors_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 326195,
+            "size_kb": 318.55,
+            "size_mb": 0.311
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models\\general.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models",
+            "filename": "general.pkl",
+            "extension": ".pkl",
+            "size_bytes": 2563544,
+            "size_kb": 2503.461,
+            "size_mb": 2.445
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models\\general_pipeline.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models",
+            "filename": "general_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 2191428,
+            "size_kb": 2140.066,
+            "size_mb": 2.09
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models\\temporal.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models",
+            "filename": "temporal.pkl",
+            "extension": ".pkl",
+            "size_bytes": 2595243,
+            "size_kb": 2534.417,
+            "size_mb": 2.475
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models\\temporal_pipeline.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models",
+            "filename": "temporal_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 2289451,
+            "size_kb": 2235.792,
+            "size_mb": 2.183
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models\\transport.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models",
+            "filename": "transport.pkl",
+            "extension": ".pkl",
+            "size_bytes": 1463125,
+            "size_kb": 1428.833,
+            "size_mb": 1.395
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models\\transport_pipeline.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models",
+            "filename": "transport_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 1214438,
+            "size_kb": 1185.975,
+            "size_mb": 1.158
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models\\volume.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models",
+            "filename": "volume.pkl",
+            "extension": ".pkl",
+            "size_bytes": 2418358,
+            "size_kb": 2361.678,
+            "size_mb": 2.306
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models\\volume_pipeline.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Models",
+            "filename": "volume_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 2076316,
+            "size_kb": 2027.652,
+            "size_mb": 1.98
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Predictions\\view_predictions_and_reliability.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Predictions",
+            "filename": "view_predictions_and_reliability.csv",
+            "extension": ".csv",
+            "size_bytes": 133698261,
+            "size_kb": 130564.708,
+            "size_mb": 127.505
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Reports\\view_metrics.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Multiview_Evidence\\Phase_02_View_Models\\CSE-CIC-IDS2018\\Reports",
+            "filename": "view_metrics.csv",
+            "extension": ".csv",
+            "size_bytes": 2230,
+            "size_kb": 2.178,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Figures\\test_precision_recall_curve.png",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Figures",
+            "filename": "test_precision_recall_curve.png",
+            "extension": ".png",
+            "size_bytes": 75406,
+            "size_kb": 73.639,
+            "size_mb": 0.072
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Figures\\test_roc_curve.png",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Figures",
+            "filename": "test_roc_curve.png",
+            "extension": ".png",
+            "size_bytes": 109679,
+            "size_kb": 107.108,
+            "size_mb": 0.105
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Manifests\\original_feature_manifest.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Manifests",
+            "filename": "original_feature_manifest.json",
+            "extension": ".json",
+            "size_bytes": 4146,
+            "size_kb": 4.049,
+            "size_mb": 0.004
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Metrics\\feature_importance.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Metrics",
+            "filename": "feature_importance.csv",
+            "extension": ".csv",
+            "size_bytes": 2738,
+            "size_kb": 2.674,
+            "size_mb": 0.003
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Metrics\\feature_importance_top30.png",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Metrics",
+            "filename": "feature_importance_top30.png",
+            "extension": ".png",
+            "size_bytes": 349576,
+            "size_kb": 341.383,
+            "size_mb": 0.333
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Metrics\\test_classification_report.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Metrics",
+            "filename": "test_classification_report.json",
+            "extension": ".json",
+            "size_bytes": 666,
+            "size_kb": 0.65,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Metrics\\test_confusion_matrix.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Metrics",
+            "filename": "test_confusion_matrix.csv",
+            "extension": ".csv",
+            "size_bytes": 95,
+            "size_kb": 0.093,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Metrics\\test_metrics.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Metrics",
+            "filename": "test_metrics.json",
+            "extension": ".json",
+            "size_bytes": 287,
+            "size_kb": 0.28,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Metrics\\validation_classification_report.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Metrics",
+            "filename": "validation_classification_report.json",
+            "extension": ".json",
+            "size_bytes": 646,
+            "size_kb": 0.631,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Metrics\\validation_metrics.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Metrics",
+            "filename": "validation_metrics.json",
+            "extension": ".json",
+            "size_bytes": 277,
+            "size_kb": 0.271,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Model\\original_feature_xgboost_pipeline.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Model",
+            "filename": "original_feature_xgboost_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 1290648,
+            "size_kb": 1260.398,
+            "size_mb": 1.231
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Predictions\\test_predictions.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Predictions",
+            "filename": "test_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 3618040,
+            "size_kb": 3533.242,
+            "size_mb": 3.45
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Predictions\\validation_predictions.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Predictions",
+            "filename": "validation_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 1808878,
+            "size_kb": 1766.482,
+            "size_mb": 1.725
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Splits\\fixed_split_assignments.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Splits",
+            "filename": "fixed_split_assignments.csv",
+            "extension": ".csv",
+            "size_bytes": 14188912,
+            "size_kb": 13856.359,
+            "size_mb": 13.532
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Splits\\split_summary.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\Splits",
+            "filename": "split_summary.csv",
+            "extension": ".csv",
+            "size_bytes": 179,
+            "size_kb": 0.175,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017\\experiment_result.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CICIDS2017",
+            "filename": "experiment_result.json",
+            "extension": ".json",
+            "size_bytes": 1418,
+            "size_kb": 1.385,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Figures\\test_precision_recall_curve.png",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Figures",
+            "filename": "test_precision_recall_curve.png",
+            "extension": ".png",
+            "size_bytes": 85551,
+            "size_kb": 83.546,
+            "size_mb": 0.082
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Figures\\test_roc_curve.png",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Figures",
+            "filename": "test_roc_curve.png",
+            "extension": ".png",
+            "size_bytes": 111701,
+            "size_kb": 109.083,
+            "size_mb": 0.107
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Manifests\\original_feature_manifest.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Manifests",
+            "filename": "original_feature_manifest.json",
+            "extension": ".json",
+            "size_bytes": 3803,
+            "size_kb": 3.714,
+            "size_mb": 0.004
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Metrics\\feature_importance.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "feature_importance.csv",
+            "extension": ".csv",
+            "size_bytes": 2585,
+            "size_kb": 2.524,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Metrics\\feature_importance_top30.png",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "feature_importance_top30.png",
+            "extension": ".png",
+            "size_bytes": 306085,
+            "size_kb": 298.911,
+            "size_mb": 0.292
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Metrics\\test_classification_report.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "test_classification_report.json",
+            "extension": ".json",
+            "size_bytes": 667,
+            "size_kb": 0.651,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Metrics\\test_confusion_matrix.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "test_confusion_matrix.csv",
+            "extension": ".csv",
+            "size_bytes": 96,
+            "size_kb": 0.094,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Metrics\\test_metrics.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "test_metrics.json",
+            "extension": ".json",
+            "size_bytes": 286,
+            "size_kb": 0.279,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Metrics\\validation_classification_report.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "validation_classification_report.json",
+            "extension": ".json",
+            "size_bytes": 646,
+            "size_kb": 0.631,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Metrics\\validation_metrics.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "validation_metrics.json",
+            "extension": ".json",
+            "size_bytes": 276,
+            "size_kb": 0.27,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Model\\original_feature_xgboost_pipeline.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Model",
+            "filename": "original_feature_xgboost_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 2054387,
+            "size_kb": 2006.237,
+            "size_mb": 1.959
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Predictions\\test_predictions.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Predictions",
+            "filename": "test_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 3533114,
+            "size_kb": 3450.307,
+            "size_mb": 3.369
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Predictions\\validation_predictions.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Predictions",
+            "filename": "validation_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 1767015,
+            "size_kb": 1725.601,
+            "size_mb": 1.685
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Splits\\fixed_split_assignments.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Splits",
+            "filename": "fixed_split_assignments.csv",
+            "extension": ".csv",
+            "size_bytes": 14188912,
+            "size_kb": 13856.359,
+            "size_mb": 13.532
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Splits\\split_summary.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\Splits",
+            "filename": "split_summary.csv",
+            "extension": ".csv",
+            "size_bytes": 179,
+            "size_kb": 0.175,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018\\experiment_result.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\CSE-CIC-IDS2018",
+            "filename": "experiment_result.json",
+            "extension": ".json",
+            "size_bytes": 1426,
+            "size_kb": 1.393,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\Logs\\experiment_02_1_original_features.log",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\Logs",
+            "filename": "experiment_02_1_original_features.log",
+            "extension": ".log",
+            "size_bytes": 12182,
+            "size_kb": 11.896,
+            "size_mb": 0.012
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\Manifests\\experiment_02_1_run_manifest.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\Manifests",
+            "filename": "experiment_02_1_run_manifest.json",
+            "extension": ".json",
+            "size_bytes": 780,
+            "size_kb": 0.762,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\Reports\\Dataset_Readiness.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\Reports",
+            "filename": "Dataset_Readiness.csv",
+            "extension": ".csv",
+            "size_bytes": 241,
+            "size_kb": 0.235,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\Reports\\Original_Feature_Evaluation_Results.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\Reports",
+            "filename": "Original_Feature_Evaluation_Results.csv",
+            "extension": ".csv",
+            "size_bytes": 1835,
+            "size_kb": 1.792,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\Reports\\Original_Feature_Evaluation_Results.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_01_Original_Feature_Evaluation\\Reports",
+            "filename": "Original_Feature_Evaluation_Results.json",
+            "extension": ".json",
+            "size_bytes": 3186,
+            "size_kb": 3.111,
+            "size_mb": 0.003
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Evidence\\test_evidence_quality_sample.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Evidence",
+            "filename": "test_evidence_quality_sample.csv",
+            "extension": ".csv",
+            "size_bytes": 1466624,
+            "size_kb": 1432.25,
+            "size_mb": 1.399
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Figures\\test_precision_recall_curve.png",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Figures",
+            "filename": "test_precision_recall_curve.png",
+            "extension": ".png",
+            "size_bytes": 76613,
+            "size_kb": 74.817,
+            "size_mb": 0.073
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Figures\\test_roc_curve.png",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Figures",
+            "filename": "test_roc_curve.png",
+            "extension": ".png",
+            "size_bytes": 111590,
+            "size_kb": 108.975,
+            "size_mb": 0.106
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Manifests\\forensic_evidence_manifest.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Manifests",
+            "filename": "forensic_evidence_manifest.json",
+            "extension": ".json",
+            "size_bytes": 4612,
+            "size_kb": 4.504,
+            "size_mb": 0.004
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Metrics\\evidence_feature_importance.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Metrics",
+            "filename": "evidence_feature_importance.csv",
+            "extension": ".csv",
+            "size_bytes": 30316,
+            "size_kb": 29.605,
+            "size_mb": 0.029
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Metrics\\evidence_feature_importance_top30.png",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Metrics",
+            "filename": "evidence_feature_importance_top30.png",
+            "extension": ".png",
+            "size_bytes": 500177,
+            "size_kb": 488.454,
+            "size_mb": 0.477
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Metrics\\paired_representation_comparison.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Metrics",
+            "filename": "paired_representation_comparison.csv",
+            "extension": ".csv",
+            "size_bytes": 413,
+            "size_kb": 0.403,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Metrics\\test_classification_report.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Metrics",
+            "filename": "test_classification_report.json",
+            "extension": ".json",
+            "size_bytes": 668,
+            "size_kb": 0.652,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Metrics\\test_confusion_matrix.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Metrics",
+            "filename": "test_confusion_matrix.csv",
+            "extension": ".csv",
+            "size_bytes": 95,
+            "size_kb": 0.093,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Metrics\\test_metrics.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Metrics",
+            "filename": "test_metrics.json",
+            "extension": ".json",
+            "size_bytes": 287,
+            "size_kb": 0.28,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Metrics\\validation_metrics.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Metrics",
+            "filename": "validation_metrics.json",
+            "extension": ".json",
+            "size_bytes": 276,
+            "size_kb": 0.27,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Model\\forensic_evidence_xgboost_pipeline.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Model",
+            "filename": "forensic_evidence_xgboost_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 1394686,
+            "size_kb": 1361.998,
+            "size_mb": 1.33
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Predictions\\test_predictions.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Predictions",
+            "filename": "test_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 3618711,
+            "size_kb": 3533.897,
+            "size_mb": 3.451
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Predictions\\validation_predictions.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\Predictions",
+            "filename": "validation_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 1809260,
+            "size_kb": 1766.855,
+            "size_mb": 1.725
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017\\experiment_result.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CICIDS2017",
+            "filename": "experiment_result.json",
+            "extension": ".json",
+            "size_bytes": 1864,
+            "size_kb": 1.82,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Evidence\\test_evidence_quality_sample.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Evidence",
+            "filename": "test_evidence_quality_sample.csv",
+            "extension": ".csv",
+            "size_bytes": 1450089,
+            "size_kb": 1416.103,
+            "size_mb": 1.383
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Figures\\test_precision_recall_curve.png",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Figures",
+            "filename": "test_precision_recall_curve.png",
+            "extension": ".png",
+            "size_bytes": 86532,
+            "size_kb": 84.504,
+            "size_mb": 0.083
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Figures\\test_roc_curve.png",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Figures",
+            "filename": "test_roc_curve.png",
+            "extension": ".png",
+            "size_bytes": 114360,
+            "size_kb": 111.68,
+            "size_mb": 0.109
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Manifests\\forensic_evidence_manifest.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Manifests",
+            "filename": "forensic_evidence_manifest.json",
+            "extension": ".json",
+            "size_bytes": 4274,
+            "size_kb": 4.174,
+            "size_mb": 0.004
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Metrics\\evidence_feature_importance.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "evidence_feature_importance.csv",
+            "extension": ".csv",
+            "size_bytes": 29274,
+            "size_kb": 28.588,
+            "size_mb": 0.028
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Metrics\\evidence_feature_importance_top30.png",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "evidence_feature_importance_top30.png",
+            "extension": ".png",
+            "size_bytes": 467682,
+            "size_kb": 456.721,
+            "size_mb": 0.446
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Metrics\\paired_representation_comparison.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "paired_representation_comparison.csv",
+            "extension": ".csv",
+            "size_bytes": 417,
+            "size_kb": 0.407,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Metrics\\test_classification_report.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "test_classification_report.json",
+            "extension": ".json",
+            "size_bytes": 667,
+            "size_kb": 0.651,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Metrics\\test_confusion_matrix.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "test_confusion_matrix.csv",
+            "extension": ".csv",
+            "size_bytes": 96,
+            "size_kb": 0.094,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Metrics\\test_metrics.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "test_metrics.json",
+            "extension": ".json",
+            "size_bytes": 286,
+            "size_kb": 0.279,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Metrics\\validation_metrics.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "validation_metrics.json",
+            "extension": ".json",
+            "size_bytes": 277,
+            "size_kb": 0.271,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Model\\forensic_evidence_xgboost_pipeline.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Model",
+            "filename": "forensic_evidence_xgboost_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 1876111,
+            "size_kb": 1832.14,
+            "size_mb": 1.789
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Predictions\\test_predictions.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Predictions",
+            "filename": "test_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 3539687,
+            "size_kb": 3456.726,
+            "size_mb": 3.376
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Predictions\\validation_predictions.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\Predictions",
+            "filename": "validation_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 1769686,
+            "size_kb": 1728.209,
+            "size_mb": 1.688
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018\\experiment_result.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\CSE-CIC-IDS2018",
+            "filename": "experiment_result.json",
+            "extension": ".json",
+            "size_bytes": 1878,
+            "size_kb": 1.834,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\Logs\\experiment_02_2_forensic_evidence.log",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\Logs",
+            "filename": "experiment_02_2_forensic_evidence.log",
+            "extension": ".log",
+            "size_bytes": 12308,
+            "size_kb": 12.02,
+            "size_mb": 0.012
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\Manifests\\experiment_02_2_run_manifest.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\Manifests",
+            "filename": "experiment_02_2_run_manifest.json",
+            "extension": ".json",
+            "size_bytes": 986,
+            "size_kb": 0.963,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\Reports\\Dataset_Readiness.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\Reports",
+            "filename": "Dataset_Readiness.csv",
+            "extension": ".csv",
+            "size_bytes": 223,
+            "size_kb": 0.218,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\Reports\\Forensic_Evidence_Representation_Results.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\Reports",
+            "filename": "Forensic_Evidence_Representation_Results.csv",
+            "extension": ".csv",
+            "size_bytes": 2467,
+            "size_kb": 2.409,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\Reports\\Forensic_Evidence_Representation_Results.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\Reports",
+            "filename": "Forensic_Evidence_Representation_Results.json",
+            "extension": ".json",
+            "size_bytes": 4156,
+            "size_kb": 4.059,
+            "size_mb": 0.004
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\Reports\\Original_vs_Evidence_Comparison.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_02_Original_Feature_Representation\\Phase_02_Forensic_Evidence_Representation\\Reports",
+            "filename": "Original_vs_Evidence_Comparison.csv",
+            "extension": ".csv",
+            "size_bytes": 875,
+            "size_kb": 0.854,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Figures\\ferf_component_precision_recall_curves.png",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Figures",
+            "filename": "ferf_component_precision_recall_curves.png",
+            "extension": ".png",
+            "size_bytes": 137941,
+            "size_kb": 134.708,
+            "size_mb": 0.132
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Figures\\ferf_component_roc_curves.png",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Figures",
+            "filename": "ferf_component_roc_curves.png",
+            "extension": ".png",
+            "size_bytes": 175383,
+            "size_kb": 171.272,
+            "size_mb": 0.167
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Manifests\\ferf_manifest.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Manifests",
+            "filename": "ferf_manifest.json",
+            "extension": ".json",
+            "size_bytes": 1767,
+            "size_kb": 1.726,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Metrics\\branch_and_fusion_metrics.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Metrics",
+            "filename": "branch_and_fusion_metrics.csv",
+            "extension": ".csv",
+            "size_bytes": 922,
+            "size_kb": 0.9,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Metrics\\ferf_test_classification_report.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Metrics",
+            "filename": "ferf_test_classification_report.json",
+            "extension": ".json",
+            "size_bytes": 669,
+            "size_kb": 0.653,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Metrics\\ferf_test_confusion_matrix.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Metrics",
+            "filename": "ferf_test_confusion_matrix.csv",
+            "extension": ".csv",
+            "size_bytes": 95,
+            "size_kb": 0.093,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Metrics\\optimized_ferf_configuration.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Metrics",
+            "filename": "optimized_ferf_configuration.json",
+            "extension": ".json",
+            "size_bytes": 482,
+            "size_kb": 0.471,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Metrics\\test_ferf_metrics.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Metrics",
+            "filename": "test_ferf_metrics.json",
+            "extension": ".json",
+            "size_bytes": 286,
+            "size_kb": 0.279,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Metrics\\validation_ferf_metrics.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Metrics",
+            "filename": "validation_ferf_metrics.json",
+            "extension": ".json",
+            "size_bytes": 277,
+            "size_kb": 0.271,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Metrics\\validation_weight_threshold_search.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Metrics",
+            "filename": "validation_weight_threshold_search.csv",
+            "extension": ".csv",
+            "size_bytes": 465254,
+            "size_kb": 454.35,
+            "size_mb": 0.444
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Model\\quality_conditioned_pipeline.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Model",
+            "filename": "quality_conditioned_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 480806,
+            "size_kb": 469.537,
+            "size_mb": 0.459
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Predictions\\ferf_test_predictions.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Predictions",
+            "filename": "ferf_test_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 27767463,
+            "size_kb": 27116.663,
+            "size_mb": 26.481
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Predictions\\ferf_validation_predictions.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Predictions",
+            "filename": "ferf_validation_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 2627040,
+            "size_kb": 2565.469,
+            "size_mb": 2.505
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Reliability\\agreement_disagreement_analysis.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Reliability",
+            "filename": "agreement_disagreement_analysis.csv",
+            "extension": ".csv",
+            "size_bytes": 200,
+            "size_kb": 0.195,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Reliability\\reliability_summary.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\Reliability",
+            "filename": "reliability_summary.csv",
+            "extension": ".csv",
+            "size_bytes": 1334,
+            "size_kb": 1.303,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017\\ferf_experiment_result.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CICIDS2017",
+            "filename": "ferf_experiment_result.json",
+            "extension": ".json",
+            "size_bytes": 2346,
+            "size_kb": 2.291,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Figures\\ferf_component_precision_recall_curves.png",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Figures",
+            "filename": "ferf_component_precision_recall_curves.png",
+            "extension": ".png",
+            "size_bytes": 147613,
+            "size_kb": 144.153,
+            "size_mb": 0.141
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Figures\\ferf_component_roc_curves.png",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Figures",
+            "filename": "ferf_component_roc_curves.png",
+            "extension": ".png",
+            "size_bytes": 172960,
+            "size_kb": 168.906,
+            "size_mb": 0.165
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Manifests\\ferf_manifest.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Manifests",
+            "filename": "ferf_manifest.json",
+            "extension": ".json",
+            "size_bytes": 1792,
+            "size_kb": 1.75,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Metrics\\branch_and_fusion_metrics.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "branch_and_fusion_metrics.csv",
+            "extension": ".csv",
+            "size_bytes": 920,
+            "size_kb": 0.898,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Metrics\\ferf_test_classification_report.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "ferf_test_classification_report.json",
+            "extension": ".json",
+            "size_bytes": 668,
+            "size_kb": 0.652,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Metrics\\ferf_test_confusion_matrix.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "ferf_test_confusion_matrix.csv",
+            "extension": ".csv",
+            "size_bytes": 98,
+            "size_kb": 0.096,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Metrics\\optimized_ferf_configuration.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "optimized_ferf_configuration.json",
+            "extension": ".json",
+            "size_bytes": 513,
+            "size_kb": 0.501,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Metrics\\test_ferf_metrics.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "test_ferf_metrics.json",
+            "extension": ".json",
+            "size_bytes": 286,
+            "size_kb": 0.279,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Metrics\\validation_ferf_metrics.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "validation_ferf_metrics.json",
+            "extension": ".json",
+            "size_bytes": 277,
+            "size_kb": 0.271,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Metrics\\validation_weight_threshold_search.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Metrics",
+            "filename": "validation_weight_threshold_search.csv",
+            "extension": ".csv",
+            "size_bytes": 464941,
+            "size_kb": 454.044,
+            "size_mb": 0.443
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Model\\quality_conditioned_pipeline.pkl",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Model",
+            "filename": "quality_conditioned_pipeline.pkl",
+            "extension": ".pkl",
+            "size_bytes": 495933,
+            "size_kb": 484.31,
+            "size_mb": 0.473
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Predictions\\ferf_test_predictions.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Predictions",
+            "filename": "ferf_test_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 27314075,
+            "size_kb": 26673.901,
+            "size_mb": 26.049
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Predictions\\ferf_validation_predictions.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Predictions",
+            "filename": "ferf_validation_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 2637441,
+            "size_kb": 2575.626,
+            "size_mb": 2.515
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Reliability\\agreement_disagreement_analysis.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Reliability",
+            "filename": "agreement_disagreement_analysis.csv",
+            "extension": ".csv",
+            "size_bytes": 199,
+            "size_kb": 0.194,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Reliability\\reliability_summary.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\Reliability",
+            "filename": "reliability_summary.csv",
+            "extension": ".csv",
+            "size_bytes": 1321,
+            "size_kb": 1.29,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018\\ferf_experiment_result.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\CSE-CIC-IDS2018",
+            "filename": "ferf_experiment_result.json",
+            "extension": ".json",
+            "size_bytes": 2381,
+            "size_kb": 2.325,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\Logs\\experiment_03_ferf_validation.log",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\Logs",
+            "filename": "experiment_03_ferf_validation.log",
+            "extension": ".log",
+            "size_bytes": 13575,
+            "size_kb": 13.257,
+            "size_mb": 0.013
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\Manifests\\experiment_03_run_manifest.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\Manifests",
+            "filename": "experiment_03_run_manifest.json",
+            "extension": ".json",
+            "size_bytes": 813,
+            "size_kb": 0.794,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\Reports\\Dataset_Readiness.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\Reports",
+            "filename": "Dataset_Readiness.csv",
+            "extension": ".csv",
+            "size_bytes": 223,
+            "size_kb": 0.218,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\Reports\\FERF_Method_Comparison.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\Reports",
+            "filename": "FERF_Method_Comparison.csv",
+            "extension": ".csv",
+            "size_bytes": 1760,
+            "size_kb": 1.719,
+            "size_mb": 0.002
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\Reports\\FERF_Validation_Results.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\Reports",
+            "filename": "FERF_Validation_Results.csv",
+            "extension": ".csv",
+            "size_bytes": 3098,
+            "size_kb": 3.025,
+            "size_mb": 0.003
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\Reports\\FERF_Validation_Results.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation\\Reports",
+            "filename": "FERF_Validation_Results.json",
+            "extension": ".json",
+            "size_bytes": 5229,
+            "size_kb": 5.106,
+            "size_mb": 0.005
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation_Corrected\\CICIDS2017\\Manifests\\ferf_configuration.json",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation_Corrected\\CICIDS2017\\Manifests",
+            "filename": "ferf_configuration.json",
+            "extension": ".json",
+            "size_bytes": 464,
+            "size_kb": 0.453,
+            "size_mb": 0.0
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation_Corrected\\CICIDS2017\\Predictions\\ferf_test_predictions.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation_Corrected\\CICIDS2017\\Predictions",
+            "filename": "ferf_test_predictions.csv",
+            "extension": ".csv",
+            "size_bytes": 9614157,
+            "size_kb": 9388.825,
+            "size_mb": 9.169
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation_Corrected\\CICIDS2017\\Reports\\ferf_comparison.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation_Corrected\\CICIDS2017\\Reports",
+            "filename": "ferf_comparison.csv",
+            "extension": ".csv",
+            "size_bytes": 603,
+            "size_kb": 0.589,
+            "size_mb": 0.001
+        },
+        {
+            "relative_path": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation_Corrected\\CICIDS2017\\Reports\\validation_search.csv",
+            "parent_folder": "Experiment_03_Framework_Validation\\Experiment_03_FERF_Validation_Corrected\\CICIDS2017\\Reports",
+            "filename": "validation_search.csv",
+            "extension": ".csv",
+            "size_bytes": 76354679,
+            "size_kb": 74565.116,
+            "size_mb": 72.817
+        }
+    ]
+}

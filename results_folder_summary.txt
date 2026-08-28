@@ -1,0 +1,24 @@
+RESULTS FOLDER STRUCTURE SUMMARY
+================================
+
+Generated:
+2026-08-27T18:23:25.592679
+
+Root:
+D:\47\472\New-Papers\Digital_Forensics_Framework_Network Intrusions\Experiments\Results
+
+Folders:
+154
+
+Files:
+352
+
+Total size:
+3,844.684 MB
+3.755 GB
+
+Generated files:
+results_folder_tree.txt
+results_file_inventory.csv
+results_file_inventory.json
+results_folder_summary.txt
