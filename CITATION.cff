@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+
+message: >-
+  If you use this software, code, or experimental results in your
+  research, please cite this repository and the associated paper.
+
+title: >-
+  Reliability-Aware Multi-View Forensic Evidence Synthesis for
+  Network Intrusion Investigation: Code and Experimental Results
+
+type: software
+
+authors:
+  - family-names: "AlZain"
+    given-names: "Mohammed A."
+
+version: "1.0.0"
+
+date-released: "2026-08-28"
+
+repository-code: >-
+  https://github.com/USERNAME/Reliability-Aware-Multi-View-Forensic-Evidence-Synthesis
+
+abstract: >-
+  Source code and experimental results for a reliability-aware
+  multi-view forensic evidence synthesis framework for network
+  intrusion investigation. The framework organizes network-flow
+  observations into semantic evidence views and applies Forensic
+  Evidence Reliability Fusion (FERF) to combine global evidence
+  importance with record-specific integrity, information-quality,
+  and temporal-reliability information. The repository includes
+  code for dataset preparation, baseline evaluation, multi-view
+  analysis, reliability-aware fusion, ablation and evidence
+  degradation, cross-dataset validation, repeated cross-validation,
+  statistical analysis, computational-efficiency assessment, and
+  scalability evaluation. Experimental datasets are not
+  redistributed; official dataset sources and preparation
+  information are provided separately.
+
+keywords:
+  - "digital forensics"
+  - "network forensics"
+  - "network intrusion detection"
+  - "forensic evidence synthesis"
+  - "evidence fusion"
+  - "multi-view learning"
+  - "reliability-aware reasoning"
+  - "FERF"
+  - "forensic decision support"
+  - "machine learning"
+
+license: "LICENSE-TO-BE-SELECTED"
