@@ -1,0 +1,22 @@
+name: forensic-evidence-synthesis
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - statsmodels
+  - joblib
+  - tqdm
+  - pip
+
+  - pip:
+      - xgboost
+      - lightgbm
+      - catboost
